@@ -432,21 +432,21 @@ list-style-type: none;
     color: white;
   }
 
-  .paragrap{
+  .paragraph{
     display: flex;
     margin-top: 56px;
     gap: 419px;
   }
 
-  .paragrap p{
+  .paragraph p{
     color: #B1B1B1;
   }
 
-  .paragrap p a{
+  .paragraph p a{
     color: #5863F8;
   }
 
-  .paragrap a{
+  .paragraph a{
     color: #5863F8;
   }
 
